@@ -1,0 +1,15 @@
+#Button_submit{
+    margin-top:20px;
+}
+#Button_sort{
+    display: none;
+    margin: 20px;
+}
+#Output{
+    width: 80% ;
+    background-color: darkgoldenrod;
+}
+#Output_b{
+    width: 80% ;
+    background-color: darkorange;
+}
